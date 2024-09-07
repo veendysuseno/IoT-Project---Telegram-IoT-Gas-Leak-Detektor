@@ -65,7 +65,7 @@ void loop() {
 
 ## Interface:
 
-- ![Interface](img/interface.jpg)<br/>
+![Interface](img/interface.jpg)<br/>
 - Telegram Gas Leak Detector interface image. <br/>
 
 ## Conclusion:
